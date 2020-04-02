@@ -1,0 +1,99 @@
+<html>
+<head>
+<style>
+table {
+  width:80%;
+}
+table, th, td{
+padding:10px;
+border: 1px solid black;
+border-collapse:collapse;
+
+
+
+
+</style>
+<title> InxhinierieWeb </title>
+	 </head>
+
+<body>
+
+<img src="https://lh3.googleusercontent.com/proxy/LwNFE9LaplmKTozPEhRKiZCowv9SEKZmRVkA7lGmwq_BIvISY9paQG1xQf7qni99kO2Al9uogg--hP5u6KAqb92jZLIV1Sw?fbclid=IwAR2apglWV-x03Ff_YlUTJt-qj_Ia314_ZRe0GIy-EoqlPNaBO1bH0lGDQFw"height="200" width="250">
+<h1>SKILLS<h1>
+<h4>Technical Skills: Html/Html5, Css/Css3, Javascript/Jquery, Php, Asp.net, Bootstrap Structure<h3>
+<h4>Operating Systems: Windows 7, Windows 8, Linux, Android<h4>
+<h4>Applications: Interchange ecommerce, eDirectory, Joomla, OsCommerce, ZenCart, WordPress<h4>
+<h2>EXPERIENCE<h2>
+<h4>Web & Graphic Designer (MYM Web Design, 2011 – Present)<h4>
+<h5>Suspendisse dui purus, scelerisque at, vulputate vitae, pretiummattis, nunc. Maurisegetneque at
+semvenenatiseleifend.<h5>
+
+<ul>
+  <li>Nunc lacus metus, posuereeget</li>
+  <li>Laciniaeu, variusquislibero</li>
+  <li> Aliquamnonummyadipiscingaugue</li>
+</ul>  
+
+<ol>
+  <li>. Loremipsum dolor sit amet</li>
+  <li>Loremipsum dolor sit amet</li>
+  <li>Loremipsum dolor sit amet</li>
+</ol> 
+<ul>
+  <li>Consectetueradipiscingelit</li>
+  <li>Maecenas portitor</li>
+  <li> Consectetueradipiscingelit</li>
+  <li>Consectetueradipiscingelit </li>
+  </ul>  
+  
+  <h5>Creative Web Designer (Visual Fusion Web Design, 2009 – 2011)</h5>
+  <h5>Some one said:<h5>
+  <h5>“Cras non magna vel ante adipiscingrhoncus. Vivamus a mi. MorbinequeMaecenaspedepurus, tristique ac,
+tempuseget, egestasquis, mauris. Curabitur”
+<h2>Some links<h2>
+<p><a href="https://www.google.com/">https://www.google.com/</a> </p>
+<p><a href="https://www.ubt-uni.net/sq/ballina/">https://www.ubt-uni.net/sq/ballina/</a> </p>
+
+
+
+
+<table>
+  <tr>
+    <th>aTable Header #1</th>
+    <th>Table Header #2</th>
+    <th>Table Header #3</th>
+    <th>Table Header #4</th>
+  </tr>
+  <tr>
+    <td>Table Data #1</td>
+    <td>Table Data #2</td>
+    <td>Table Data #3</td>
+    <td>Table Data #4</td>
+  </tr>
+  <tr>
+    <td>Table Data #1</td>
+    <td>Table Data #2</td>
+    <td>Table Data #3</td>
+    <td>Table Data #4</td>
+  </tr>
+  
+  </table>
+  
+  <h4>Age Table<h4>
+  <table>
+  <tr>
+   
+    <th>Mosha</th>
+	
+	</tr>
+	
+	<tr>
+	<td>65</td>
+	<td>40</td>
+	<td>20</td>
+  </tr>
+  </table>
+
+
+</body>
+</html>
